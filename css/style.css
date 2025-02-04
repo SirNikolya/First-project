@@ -110,6 +110,16 @@ body{
   margin: 150px auto;
 }
 
+.blockquote__text{
+  text-align: center;
+  font-family: "Cormorant", serif;
+  font-style: italic;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: normal;
+  max-width: 704px;
+  margin: 150px auto;
+}
 
 @media  (max-width: 1000px) {
 
