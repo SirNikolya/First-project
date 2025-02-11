@@ -108,10 +108,6 @@ body{
   max-width: 704px;
   margin: 150px auto;
 }
-   
-
-
-
 
 @media  (max-width: 1000px) {
   .user-actions__item-search{
